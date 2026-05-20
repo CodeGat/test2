@@ -3,4 +3,4 @@ on:
   workflow_dispatch:
 jobs:
   call:
-    uses: CodeGat/test/.github/workflows/caller.yml@main
+    uses: codegat-test-org/test/.github/workflows/caller.yml@main
