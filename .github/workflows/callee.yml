@@ -1,0 +1,6 @@
+name: Callee
+on:
+  workflow_dispatch:
+jobs:
+  call:
+    uses: CodeGat/test/.github/workflows/caller.yml@main
